@@ -12,3 +12,5 @@ Utilizar para práctica para Git y GitHub
 Paulo Andrés Jiménez
 ## Tecnologias
 Git, GitHub, Python
+## Estado del proyecto
+Prototipo inicial.
